@@ -26,3 +26,4 @@
 
 | **Title** | **Repo** | **Paper** | **Video** |
 |-----------|:--------:|:---------:|:---------:|
+| [Multi-Agent Architecture Search via Agentic Supernet](https://icml.cc/virtual/2025/poster/44335) | [![GitHub](https://img.shields.io/github/stars/bingreeky/MaAS?style=flat)](https://github.com/bingreeky/MaAS) | [![icml.cc](https://img.shields.io/badge/html-icml.cc-2494E0.svg)](https://icml.cc/virtual/2025/poster/44335) <br /> [![arXiv](https://img.shields.io/badge/arXiv-2502.04180-b31b1b.svg)](http://arxiv.org/abs/2502.04180) | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Ng-QtR4wFuI) |
