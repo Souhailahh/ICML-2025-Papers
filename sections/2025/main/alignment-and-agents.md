@@ -1,4 +1,4 @@
-# CVPR-2024-Papers
+# ICML-2025-Papers
 
 <table>
     <tr>
