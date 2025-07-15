@@ -1,0 +1,71 @@
+[tool.black]
+line-length = 120
+target-version = ["py312"]
+skip-string-normalization = false
+skip-magic-trailing-comma = false
+
+[tool.ruff]
+line-length = 120
+target-version = "py312"
+fix = true
+exclude = [
+    ".venv",
+    "__pycache__",
+    "build",
+    "dist",
+    ".git",
+    ".mypy_cache",
+]
+
+[tool.ruff.lint]
+select = [
+    "E",
+    "F",
+    "B",
+    "I",
+    "UP",
+    "C90",
+    "D211",
+    "D212",
+    "N",
+    "PL",
+    "RUF"
+]
+ignore = [
+    "D100",
+    "D101",
+    "D102",
+    "D103",
+    "D203",
+    "D213"
+]
+
+[tool.ruff.format]
+docstring-code-format = true
+line-ending = "auto"
+
+[tool.mypy]
+python_version = "3.12"
+ignore_missing_imports = true
+warn_unused_configs = true
+disallow_untyped_defs = true
+check_untyped_defs = true
+show_error_codes = true
+strict_optional = true
+exclude = [
+    "build",
+    "dist",
+    ".venv",
+    "__pycache__",
+    ".mypy_cache",
+]
+
+[tool.isort]
+profile = "black"
+line_length = 120
+
+[tool.ruff.lint.isort]
+known-first-party = ["ICML-2025-Papers"]
+combine-as-imports = true
+lines-between-types = 1
+lines-after-imports = 2
