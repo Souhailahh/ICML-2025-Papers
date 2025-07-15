@@ -223,7 +223,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
         <td>ICML</td>
         <td align="center">:heavy_minus_sign:</td>
         <td align="center"><img src="https://img.shields.io/badge/July-white?logo=github&labelColor=b31b1b" alt="" /></td>
-        <td align="center"><a href="https://github.com/DmitryRyumin/ICML-2025-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICML-2025-Papers?style=flat" alt="" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/done.svg" width="20" alt="" /></a></td>
+        <td align="center"><a href="https://github.com/DmitryRyumin/ICML-2025-Papers" target="_blank"><img src="https://img.shields.io/github/stars/DmitryRyumin/ICML-2025-Papers?style=flat" alt="" /></a></td>
     </tr>
     <tr>
         <td>NeurIPS</td>
