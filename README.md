@@ -10,7 +10,7 @@
         <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">
       </a>
       <a href="https://icml.cc/Conferences/2025">
-        <img src="http://img.shields.io/badge/ICML-2025-7395C5.svg" alt="Conference">
+        <img src="http://img.shields.io/badge/ICML-2025-212529.svg" alt="Conference">
       </a>
       <img src="https://img.shields.io/badge/version-v0.0.1-rc0" alt="Version">
       <a href ="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/LICENSE">
