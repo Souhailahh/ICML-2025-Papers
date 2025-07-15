@@ -144,7 +144,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
         <td colspan="1" align="center"><i>2025</i></td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><i>Computer Vision (CV)</i></td>
+        <td colspan="4" align="center"><i>Computer Vision (CV)</i></td>
     </tr>
     <tr>
         <td>CVPR</td>
@@ -176,7 +176,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
         <td align="center"><img src="https://img.shields.io/badge/May-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
+        <td colspan="4" align="center"><i>Speech/Signal Processing (SP/SigProc)</i></td>
     </tr>
     <tr>
         <td>ICASSP</td>
@@ -196,7 +196,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
         <td align="center">:heavy_minus_sign:</td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><i>Natural Language Processing (NLP)</i></td>
+        <td colspan="4" align="center"><i>Natural Language Processing (NLP)</i></td>
     </tr>
     <tr>
         <td>EMNLP</td>
@@ -205,7 +205,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
         <td align="center"><img src="https://img.shields.io/badge/November-white?logo=github&labelColor=b31b1b" alt="" /></td>
     </tr>
     <tr>
-        <td colspan="3" align="center"><i>Machine Learning (ML)</i></td>
+        <td colspan="4" align="center"><i>Machine Learning (ML)</i></td>
     </tr>
     <tr>
         <td>AAAI</td>
