@@ -99,3 +99,13 @@
 </table>
 
 ---
+
+ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research papers presented at [*ICML 2025*](https://icml.cc/Conferences/2025), the premier conference in machine learning. Stay up to date with the latest breakthroughs in deep learning, generative models, optimization, AI theory, reinforcement learning, graph learning, causality, scalable machine learning systems, interpretability, fairness, and multimodal foundation models. Code implementations included. :star: the repository for advancing machine learning research and development!
+
+<p align="center">
+    <a href="https://icml.cc/Conferences/2025" target="_blank">
+        <img width="600" src="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/images/ICML2025-banner.jpg" alt="ICML 2025">
+    </a>
+<p>
+
+---
