@@ -12,7 +12,7 @@
 </table>
 
 <div align="center">
-    <a href="https://github.com/DmitryRyumin/ICML-205-Papers/blob/main/README.md">
+    <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/README.md">
         <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/home.svg" width="40" alt="" />
     </a>
     <a href="https://github.com/DmitryRyumin/ICML-205-Papers/blob/main/sections/2025/main/positions-better-ways-to-do-machine-learning.md">
