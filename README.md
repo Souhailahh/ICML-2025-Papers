@@ -104,7 +104,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
 
 <p align="center">
     <a href="https://icml.cc/Conferences/2025" target="_blank">
-        <img width="600" src="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/images/ICML2025-banner.jpg" alt="ICML 2025">
+        <img width="700" src="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/images/ICML2025-banner.jpg" alt="ICML 2025">
     </a>
 <p>
 
