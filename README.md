@@ -234,3 +234,79 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
 </table>
 
 ---
+
+## Contributors
+
+<a href="https://github.com/DmitryRyumin/ICML-2025-Papers/graphs/contributors">
+  <img src="http://contributors.nn.ci/api?repo=DmitryRyumin/ICML-2025-Papers" alt="" />
+</a>
+
+<br />
+<br />
+
+> [!NOTE]
+> Contributions to improve the completeness of this list are greatly appreciated. If you come across any overlooked papers, please **feel free to [*create pull requests*](https://github.com/DmitryRyumin/ICML-2025-Papers/pulls), [*open issues*](https://github.com/DmitryRyumin/ICML-2025-Papers/issues) or contact me via [*email*](mailto:neweraairesearch@gmail.com)**. Your participation is crucial to making this repository even better.
+
+---
+
+## Papers-2025 <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/ai.svg" width="30" alt="" />
+
+<a href="https://huggingface.co/spaces/DmitryRyumin/NewEraAI-Papers" style="float:left;">
+  <img src="https://img.shields.io/badge/🤗-NewEraAI--Papers-FFD21F.svg" alt="App" />
+</a>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="col">Section</th>
+            <th scope="col">Papers</th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/arxiv-logo.svg" width="45" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /></th>
+            <th scope="col"><img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/video.svg" width="27" alt="" /></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="5" align="center"><i>Main</i></td>
+        </tr>
+        <tr>
+            <td colspan="5" align="left"><i>Orals</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/alignment-and-agents.md">Alignment and Agents</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/alignment-and-agents.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+            <td colspan="4" rowspan="2" align="center"><i>Will soon be added</i></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/positions-better-ways-to-do-machine-learning.md">Positions: Better Ways to Do Machine Learning</a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/positions-better-ways-to-do-machine-learning.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="5" align="left"><i>Posters</i></td>
+        </tr>
+    </tbody>
+</table>
+
+---
+
+## Key Terms
+
+> Will soon be added
+
+---
+
+## Star History
+
+<p align="center">
+    <a href="https://star-history.com/#Dmitryryumin/ICML-2025-Papers&Date" target="_blank">
+        <img width="500" src="https://api.star-history.com/svg?repos=Dmitryryumin/ICML-2025-Papers&type=Date" alt="Star History Chart">
+    </a>
+<p>
