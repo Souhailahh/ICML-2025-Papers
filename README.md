@@ -568,7 +568,15 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/applications-in-science-and-language.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
             </td>
-            <td colspan="4" rowspan="11" align="center"><i>Will soon be added</i></td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/applications-in-science-and-language.md"><img src="https://img.shields.io/badge/4-b31b1b" alt="Preprints"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/applications-in-science-and-language.md"><img src="https://img.shields.io/badge/4-1D7FBF" alt="Open Code"></a>
+            </td>
+            <td>
+                <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/applications-in-science-and-language.md"><img src="https://img.shields.io/badge/0-FF0000" alt="Videos"></a>
+            </td>
         </tr>
         <tr>
             <td>
@@ -577,6 +585,7 @@ ICML 2025 Papers: Explore a comprehensive collection of cutting-edge research pa
             <td>
                 <a href="https://github.com/DmitryRyumin/ICML-2025-Papers/blob/main/sections/2025/main/Algorithms.md"><img src="https://img.shields.io/badge/4-42BA16" alt="Papers"></a>
             </td>
+            <td colspan="4" rowspan="10" align="center"><i>Will soon be added</i></td>
         </tr>
         <tr>
             <td>
